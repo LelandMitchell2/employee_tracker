@@ -3,7 +3,7 @@ import {connectToDb} from './connection.js';
 import inquirer from 'inquirer';
 // import { pool } from './connection.js';
 // import { QueryResult } from 'pg';
-import { viewAllDepartments, viewAllRoles, viewAllEmployees } from './queries/viewall.js';
+import { viewAllDepartments, viewAllRoles, viewAllEmployees } from './queries/view-all.js';
 import { addDepartment, addRole, addEmployee } from './queries/add.js';
 import { updateEmployeeRole, updateEmployeeManager } from './queries/update.js';
 import { viewEmployeesByManager, viewEmployeesByDepartment } from './queries/view.js';
