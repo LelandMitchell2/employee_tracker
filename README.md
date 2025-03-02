@@ -15,6 +15,7 @@
   download the REPO, navigate to it in BASH, add your postgreSQL sign in information to a .emv file and run nmp run build then npm run start
 
   ## Usage
+  https://drive.google.com/file/d/1OYdLWfguy0NQ53EO6VwOnfP7tTLqxqtk/view
   Use it to track, add, and delete employees, roles, and departments, as well as see the sum of a selected departments salary.
 
   ## License
