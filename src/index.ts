@@ -20,9 +20,9 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 
-
+console.log('================================')
 console.log('Welcome to the Employee Tracker!');
-
+console.log('================================')
 
 // Prompt user for action
 
